@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Problem Statement and Solution}{3}{0}{1}
+\beamer@sectionintoc {2}{Background}{7}{0}{2}
+\beamer@sectionintoc {3}{Architecture and System Design}{11}{0}{3}
+\beamer@sectionintoc {4}{Evaluations and Results}{15}{0}{4}
+\beamer@sectionintoc {5}{Discussion}{20}{0}{5}
