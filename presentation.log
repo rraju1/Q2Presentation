@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.11)  14 MAR 2018 20:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.11)  19 MAR 2018 12:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/home/rraju2/kyle_901/presentation.tex
-(/home/rraju2/kyle_901/presentation.tex
+**/home/rraju2/Q2Presentation/presentation.tex
+(/home/rraju2/Q2Presentation/presentation.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls (/usr/share/texlive/
@@ -834,7 +834,7 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \sift@deathcycles=\count178
 \@vwid@loff=\dimen278
 \@vwid@roff=\dimen279
-)) (/home/rraju2/kyle_901/presentation.aux)
+)) (/home/rraju2/Q2Presentation/presentation.aux)
 \openout1 = `presentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -923,8 +923,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 31.
 LaTeX Info: Redefining \pageref on input line 31.
 LaTeX Info: Redefining \nameref on input line 31.
-(/home/rraju2/kyle_901/presentation.out) (/home/rraju2/kyle_901/presentation.ou
-t)
+(/home/rraju2/Q2Presentation/presentation.out) (/home/rraju2/Q2Presentation/pre
+sentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
@@ -1006,7 +1006,7 @@ orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 LaTeX Info: Redefining \includegraphics on input line 31.
-(/home/rraju2/kyle_901/presentation.nav)
+(/home/rraju2/Q2Presentation/presentation.nav)
 Overfull \vbox (44.55656pt too high) detected at line 35
  []
 
@@ -1016,8 +1016,8 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/rraju2/kyle_901/pre
-sentation.toc) [2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/rraju2/Q2Presentati
+on/presentation.toc) [2
 
 ]
 LaTeX Font Info:    Try loading font information for U+msa on input line 46.
@@ -1051,8 +1051,8 @@ Package pdftex.def Info: ibm_sram_crossbar.jpg used on input line 63.
 (pdftex.def)             Requested size: 86.72246pt x 85.18073pt.
 [4
 
- </home/rraju2/kyle_901/ibm_sram_crossbar.jpg>] <hcm.jpg, id=69, 154.176pt x 11
-0.814pt>
+ </home/rraju2/Q2Presentation/ibm_sram_crossbar.jpg>] <hcm.jpg, id=69, 154.176p
+t x 110.814pt>
 File: hcm.jpg Graphic file (type jpg)
 <use hcm.jpg>
 Package pdftex.def Info: hcm.jpg used on input line 87.
@@ -1063,14 +1063,15 @@ Overfull \vbox (0.97931pt too high) detected at line 87
 
 [5
 
- </home/rraju2/kyle_901/hcm.jpg>] <keyIdea.png, id=76, 762.85pt x 430.60875pt>
+ </home/rraju2/Q2Presentation/hcm.jpg>] <keyIdea.png, id=76, 762.85pt x 430.608
+75pt>
 File: keyIdea.png Graphic file (type png)
 <use keyIdea.png>
 Package pdftex.def Info: keyIdea.png used on input line 91.
 (pdftex.def)             Requested size: 305.1346pt x 172.24043pt.
 [6
 
- </home/rraju2/kyle_901/keyIdea.png>] [7
+ </home/rraju2/Q2Presentation/keyIdea.png>] [7
 
 ] <reram.png, id=88, 608.2725pt x 262.9825pt>
 File: reram.png Graphic file (type png)
@@ -1079,22 +1080,23 @@ Package pdftex.def Info: reram.png used on input line 97.
 (pdftex.def)             Requested size: 304.13551pt x 131.49092pt.
 [8
 
- </home/rraju2/kyle_901/reram.png>] <nn.png, id=94, 480.79625pt x 259.97125pt>
+ </home/rraju2/Q2Presentation/reram.png>] <nn.png, id=94, 480.79625pt x 259.971
+25pt>
 File: nn.png Graphic file (type png)
 <use nn.png>
 Package pdftex.def Info: nn.png used on input line 102.
 (pdftex.def)             Requested size: 288.47997pt x 155.98395pt.
 [9
 
- </home/rraju2/kyle_901/nn.png (PNG copy)>] <reram_nn.png, id=100, 575.14874pt 
-x 182.6825pt>
+ </home/rraju2/Q2Presentation/nn.png (PNG copy)>] <reram_nn.png, id=100, 575.14
+874pt x 182.6825pt>
 File: reram_nn.png Graphic file (type png)
 <use reram_nn.png>
 Package pdftex.def Info: reram_nn.png used on input line 107.
 (pdftex.def)             Requested size: 287.57367pt x 91.34102pt.
 [10
 
- </home/rraju2/kyle_901/reram_nn.png>] [11
+ </home/rraju2/Q2Presentation/reram_nn.png>] [11
 
 ] <prime_arch.png, id=111, 575.14874pt x 509.905pt>
 File: prime_arch.png Graphic file (type png)
@@ -1103,74 +1105,107 @@ Package pdftex.def Info: prime_arch.png used on input line 113.
 (pdftex.def)             Requested size: 230.05542pt x 203.95837pt.
 [12
 
- </home/rraju2/kyle_901/prime_arch.png>] [13
+ </home/rraju2/Q2Presentation/prime_arch.png>] <NNvsMem.png, id=117, 513.92pt x
+ 290.08376pt>
+File: NNvsMem.png Graphic file (type png)
+<use NNvsMem.png>
+Package pdftex.def Info: NNvsMem.png used on input line 118.
+(pdftex.def)             Requested size: 205.56435pt x 116.03143pt.
+[13
 
-] <system_level.png, id=123, 1222.5675pt x 242.9075pt>
-File: system_level.png Graphic file (type png)
-<use system_level.png>
-Package pdftex.def Info: system_level.png used on input line 137.
-(pdftex.def)             Requested size: 305.64113pt x 60.72672pt.
+ </home/rraju2/Q2Presentation/NNvsMem.png>] <decoder1.png, id=124, 547.04375pt 
+x 295.1025pt>
+File: decoder1.png Graphic file (type png)
+<use decoder1.png>
+Package pdftex.def Info: decoder1.png used on input line 123.
+(pdftex.def)             Requested size: 218.81361pt x 118.0389pt.
 [14
 
- </home/rraju2/kyle_901/system_level.png>] [15
+ </home/rraju2/Q2Presentation/decoder1.png>] <col.png, id=132, 547.04375pt x 29
+5.1025pt>
+File: col.png Graphic file (type png)
+<use col.png>
+Package pdftex.def Info: col.png used on input line 128.
+(pdftex.def)             Requested size: 218.81361pt x 118.0389pt.
+[15
 
-] <ex_setup.png, id=134, 596.2275pt x 693.59125pt>
-File: ex_setup.png Graphic file (type png)
-<use ex_setup.png>
-Package pdftex.def Info: ex_setup.png used on input line 143.
-(pdftex.def)             Requested size: 178.86963pt x 208.07898pt.
+ </home/rraju2/Q2Presentation/col.png>] <SA.png, id=139, 543.02875pt x 290.0837
+6pt>
+File: SA.png Graphic file (type png)
+<use SA.png>
+Package pdftex.def Info: SA.png used on input line 133.
+(pdftex.def)             Requested size: 217.20764pt x 116.03143pt.
 [16
 
- </home/rraju2/kyle_901/ex_setup.png>] <performance.png, id=140, 584.1825pt x 5
-79.16376pt>
-File: performance.png Graphic file (type png)
-<use performance.png>
-Package pdftex.def Info: performance.png used on input line 148.
-(pdftex.def)             Requested size: 233.66885pt x 231.66139pt.
+ </home/rraju2/Q2Presentation/SA.png>] [17
 
-Overfull \vbox (19.91548pt too high) detected at line 148
- []
-
-[17
-
- </home/rraju2/kyle_901/performance.png>] <energy.png, id=146, 579.16376pt x 58
-2.175pt>
-File: energy.png Graphic file (type png)
-<use energy.png>
-Package pdftex.def Info: energy.png used on input line 153.
-(pdftex.def)             Requested size: 231.66139pt x 232.86588pt.
-
-Overfull \vbox (21.11996pt too high) detected at line 153
- []
-
+] <system_level.png, id=151, 1222.5675pt x 242.9075pt>
+File: system_level.png Graphic file (type png)
+<use system_level.png>
+Package pdftex.def Info: system_level.png used on input line 157.
+(pdftex.def)             Requested size: 305.64113pt x 60.72672pt.
 [18
 
- </home/rraju2/kyle_901/energy.png>] <area.png, id=152, 554.07pt x 235.88126pt>
+ </home/rraju2/Q2Presentation/system_level.png>] [19
+
+] <ex_setup.png, id=164, 596.2275pt x 693.59125pt>
+File: ex_setup.png Graphic file (type png)
+<use ex_setup.png>
+Package pdftex.def Info: ex_setup.png used on input line 163.
+(pdftex.def)             Requested size: 178.86963pt x 208.07898pt.
+[20
+
+ </home/rraju2/Q2Presentation/ex_setup.png>] <performance.png, id=170, 584.1825
+pt x 579.16376pt>
+File: performance.png Graphic file (type png)
+<use performance.png>
+Package pdftex.def Info: performance.png used on input line 168.
+(pdftex.def)             Requested size: 233.66885pt x 231.66139pt.
+
+Overfull \vbox (19.91548pt too high) detected at line 168
+ []
+
+[21
+
+ </home/rraju2/Q2Presentation/performance.png>] <energy.png, id=176, 579.16376p
+t x 582.175pt>
+File: energy.png Graphic file (type png)
+<use energy.png>
+Package pdftex.def Info: energy.png used on input line 173.
+(pdftex.def)             Requested size: 231.66139pt x 232.86588pt.
+
+Overfull \vbox (21.11996pt too high) detected at line 173
+ []
+
+[22
+
+ </home/rraju2/Q2Presentation/energy.png>] <area.png, id=182, 554.07pt x 235.88
+126pt>
 File: area.png Graphic file (type png)
 <use area.png>
-Package pdftex.def Info: area.png used on input line 158.
+Package pdftex.def Info: area.png used on input line 178.
 (pdftex.def)             Requested size: 277.03432pt x 117.94034pt.
-[19
+[23
 
- </home/rraju2/kyle_901/area.png>] [20
+ </home/rraju2/Q2Presentation/area.png>] [24
 
-] [21
+] [25
 
-] [22
+] [26
 
-] [23
+] [27
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf>] [2
-4
+8
 
-] <precision_graph.png, id=200, 642.4pt x 330.23375pt>
+] <precision_graph.png, id=229, 642.4pt x 330.23375pt>
 File: precision_graph.png Graphic file (type png)
 <use precision_graph.png>
-Package pdftex.def Info: precision_graph.png used on input line 210.
+Package pdftex.def Info: precision_graph.png used on input line 230.
 (pdftex.def)             Requested size: 256.95544pt x 132.09114pt.
-[25
+[29
 
- </home/rraju2/kyle_901/precision_graph.png>]
+ </home/rraju2/Q2Presentation/precision_graph.png>]
 \tf@nav=\write6
 \openout6 = `presentation.nav'.
 
@@ -1180,11 +1215,11 @@ Package pdftex.def Info: precision_graph.png used on input line 210.
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
-(/home/rraju2/kyle_901/presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 214.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 214.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 234.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 234.
+(/home/rraju2/Q2Presentation/presentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 234.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 234.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: C96EAA64991365865461D3D83F218885;278.
 
@@ -1194,16 +1229,16 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 234.
  ) 
 Here is how much of TeX's memory you used:
- 21494 strings out of 493029
- 424715 string characters out of 6136234
+ 21530 strings out of 493029
+ 425213 string characters out of 6136234
  490376 words of memory out of 5000000
- 24433 multiletter control sequences out of 15000+600000
+ 24457 multiletter control sequences out of 15000+600000
  12726 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,13n,97p,1778b,712s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,13n,97p,1784b,712s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
@@ -1212,11 +1247,11 @@ f-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmtt10.pfb>
-Output written on /home/rraju2/kyle_901/presentation.pdf (25 pages, 1039202 byt
-es).
+Output written on /home/rraju2/Q2Presentation/presentation.pdf (29 pages, 13344
+07 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 190 compressed objects within 2 object streams
- 58 named destinations out of 1000 (max. 500000)
- 148 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 279 PDF objects out of 1000 (max. 8388607)
+ 208 compressed objects within 3 object streams
+ 66 named destinations out of 1000 (max. 500000)
+ 168 words of extra memory for PDF output out of 10000 (max. 10000000)
 
