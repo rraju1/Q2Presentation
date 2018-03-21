@@ -1,6 +1,6 @@
 \documentclass[hyperref={colorlinks}]{beamer}
 
-\mode<presentation> {\usetheme{metropolis}}
+\mode<presentation> {\usetheme{default}}
 
 \usepackage{graphicx} % Allows including images
 \usepackage{booktabs} % Allows the use of \toprule, \midrule and \bottomrule in tables
@@ -97,11 +97,6 @@
 \end{frame}
 
 \begin{frame}
-	\frametitle{What is a Neural Network}
-	\includegraphics[scale=0.6]{nn.png}
-\end{frame}
-
-\begin{frame}
 	\frametitle{ReRAM in relation to Neural Nets}
 	\includegraphics[scale=0.5]{reram_nn.png}
 \end{frame}
@@ -130,20 +125,6 @@
 \begin{frame}
 	\frametitle{MicroArchitecture of FF SubArray: SA}
 	\includegraphics[scale=0.4, center]{SA.png}
-\end{frame}
-
-\begin{frame}
-	\frametitle{Precision Issues}
-	\begin{itemize}
-		\item Input precision
-		\item Weight precision
-		\item Output precision
-	\end{itemize}
-	\begin{itemize}
-		\item Multiple low-precision input signals
-		\item Multiple cells to make one high precision weight
-		\item Multiple phases for one computation
-	\end{itemize}
 \end{frame}
 
 \begin{frame}
@@ -230,5 +211,18 @@
 \end{frame}
 
 
+\begin{frame}
+	\frametitle{Precision Issues}
+	\begin{itemize}
+		\item Input precision
+		\item Weight precision
+		\item Output precision
+	\end{itemize}
+	\begin{itemize}
+		\item Multiple low-precision input signals
+		\item Multiple cells to make one high precision weight
+		\item Multiple phases for one computation
+	\end{itemize}
+\end{frame}
 
 \end{document} 
