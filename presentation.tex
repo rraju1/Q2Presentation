@@ -1,6 +1,6 @@
 \documentclass[hyperref={colorlinks}]{beamer}
 
-\mode<presentation> {\usetheme{default}}
+\mode<presentation> {\usetheme{metropolis}}
 
 \usepackage{graphicx} % Allows including images
 \usepackage{booktabs} % Allows the use of \toprule, \midrule and \bottomrule in tables
@@ -163,10 +163,7 @@
 	\frametitle{Critique}
 	\begin{enumerate}
 		\item PRIME only supports unsigned input vectors
-		\item Dot-product computations in PRIME are lossy
-		\begin{itemize}
-			\item Precision of ADC does not always match precision of dot-product
-		\end{itemize}
+		\item Tough to support recurrent NNs/LSTMs architectures
 		\item Opportunity to exploit sparsity of NN for energy savings
 		\begin{itemize}
 			\item Introduce some logic into pipeline to check how many non-zero weights in crossbar
@@ -178,7 +175,7 @@
 	\frametitle{Conclusion}
 	\begin{itemize}
 		\item PRIME is the solution to the data movement and high memory bandwidth problem
-		\item Using ReRAM crossbar accerlerates NN computation
+		\item Using ReRAM crossbar accelerates NN computation
 		\item Circuit/microarchitectural changes as well as software interface enables wide spectrum of NN applications
 		\item Very little area overhead and extra processing elements
 	\end{itemize}
@@ -205,11 +202,7 @@
 \begin{frame}
 	\Huge{\centerline{Thank you and Questions}}
 \end{frame}
-
-\begin{frame}
-	\includegraphics[scale=0.4]{precision_graph.png}
-\end{frame}
-
+\section{Appendix}
 
 \begin{frame}
 	\frametitle{Precision Issues}
@@ -224,5 +217,38 @@
 		\item Multiple phases for one computation
 	\end{itemize}
 \end{frame}
+\begin{frame}
+	\frametitle{Precision Graph}
+	\includegraphics[scale=0.4]{precision_graph.png}
+\end{frame}
+\begin{frame}
+	\frametitle{Math for precision}
+	\begin{center}
+		\includegraphics[scale=0.4]{math0.png}
+		\\
+		\includegraphics[scale=0.4]{target.png}
+		\\
+		\includegraphics[scale=0.4]{split_in_weights.png}
+	\end{center}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Math for precision}
+	\begin{center}
+		\includegraphics[scale=0.4]{expandRfull.png}\\
+		\includegraphics[scale=0.4]{Rfull_again.png}\\
+	\end{center}
+\end{frame}
+\begin{frame}
+	\frametitle{Math for precision}
+	\begin{center}
+		\[ R_{tar}^{HH} = P_0 bits of R_{full}^{HH}\]\\
+		\[ R_{tar}^{HL} = P_0 - (P_{in}/2) bits of R_{full}^{HL}\]\\
+		\[ R_{tar}^{LH} = P_0 - (P_{w}/2) bits of R_{full}^{LH}\]\\
+		\[ R_{tar}^{LL} = P_0 - ((P_{in} - P_{w})/2) bits of R_{full}^{LL}\]\\
+		\[ R_{tar} = R_{tar}^{HH} + R_{tar}^{HL} + R_{tar}^{LH} + R_{tar}^{LL}\]
+	\end{center}
+\end{frame}
+
 
 \end{document} 

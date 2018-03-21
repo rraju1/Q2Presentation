@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.11)  21 MAR 2018 12:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.11)  21 MAR 2018 16:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -634,58 +634,175 @@ Package: beamerinnerthemedefault 2014/06/30  (rcs-revision 580088513a67)
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/themes/outer/beamerouterthemede
 fault.sty
 Package: beamerouterthemedefault 2012/12/19  (rcs-revision 1686da3db3c9)
-))) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamerthememetr
+opolis.sty
+Package: beamerthememetropolis 2016/03/14 v1.1 Metropolis Beamer theme
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count153
+) (/usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/
+texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+\pgfopts@list@add@a@toks=\toks43
+\pgfopts@list@add@b@toks=\toks44
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamerinnerthem
+emetropolis.sty
+Package: beamerinnerthememetropolis 2016/03/14 Metropolis inner theme
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count154
+\calc@Bcount=\count155
+\calc@Adimen=\dimen188
+\calc@Bdimen=\dimen189
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count156
+\calc@Cskip=\skip59
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/sha
+re/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box53
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen190
+\pgf@nodesepend=\dimen191
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/shar
+e/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-d
+ist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/
+generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen192
+\pgffor@skip=\dimen193
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count157
+\pgfplotmarksize=\dimen194
+)
+\tikz@lastx=\dimen195
+\tikz@lasty=\dimen196
+\tikz@lastxsaved=\dimen197
+\tikz@lastysaved=\dimen198
+\tikzleveldistance=\dimen199
+\tikzsiblingdistance=\dimen256
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count158
+\tikznumberofchildren=\count159
+\tikznumberofcurrentchild=\count160
+\tikz@fig@count=\count161
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count162
+\pgfmatrixcurrentcolumn=\count163
+\pgf@matrix@numberofcolumns=\count164
+)
+\tikz@expandcount=\count165
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+\metropolis@progressonsectionpage=\skip60
+\metropolis@blocksep=\skip61
+\metropolis@blockadjust=\skip62
+\metropolis@parskip=\skip63
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamerouterthem
+emetropolis.sty
+Package: beamerouterthememetropolis 2016/03/14 Metropolis outer theme
+\metropolis@frametitle@padding=\skip64
+\metropolis@progressinheadfoot=\skip65
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamercolorthem
+emetropolis.sty
+Package: beamercolorthememetropolis 2016/03/14 Metropolis color theme
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamerfonttheme
+metropolis.sty
+Package: beamerfontthememetropolis 2016/03/14 Metropolis font theme
+
+Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaL
+aTeX to use the Fira fonts on input line 91.
+
+)) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen188
-\lightrulewidth=\dimen189
-\cmidrulewidth=\dimen190
-\belowrulesep=\dimen191
-\belowbottomsep=\dimen192
-\aboverulesep=\dimen193
-\abovetopsep=\dimen194
-\cmidrulesep=\dimen195
-\cmidrulekern=\dimen196
-\defaultaddspace=\dimen197
-\@cmidla=\count153
-\@cmidlb=\count154
-\@aboverulesep=\dimen198
-\@belowrulesep=\dimen199
-\@thisruleclass=\count155
-\@lastruleclass=\count156
-\@thisrulewidth=\dimen256
+\heavyrulewidth=\dimen257
+\lightrulewidth=\dimen258
+\cmidrulewidth=\dimen259
+\belowrulesep=\dimen260
+\belowbottomsep=\dimen261
+\aboverulesep=\dimen262
+\abovetopsep=\dimen263
+\cmidrulesep=\dimen264
+\cmidrulekern=\dimen265
+\defaultaddspace=\dimen266
+\@cmidla=\count166
+\@cmidlb=\count167
+\@aboverulesep=\dimen267
+\@belowrulesep=\dimen268
+\@thisruleclass=\count168
+\@lastruleclass=\count169
+\@thisrulewidth=\dimen269
 ) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count157
-\float@exts=\toks43
-\float@box=\box53
-\@float@everytoks=\toks44
-\@floatcapt=\box54
+\c@float@type=\count170
+\float@exts=\toks47
+\float@box=\box58
+\@float@everytoks=\toks48
+\@floatcapt=\box59
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\@float@every@algorithm=\toks45
-\c@algorithm=\count158
+\@float@every@algorithm=\toks49
+\c@algorithm=\count171
 ) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
-\c@ALC@unique=\count159
-\c@ALC@line=\count160
-\c@ALC@rem=\count161
-\c@ALC@depth=\count162
-\ALC@tlm=\skip57
-\algorithmicindent=\skip58
+\c@ALC@unique=\count172
+\c@ALC@line=\count173
+\c@ALC@rem=\count174
+\c@ALC@depth=\count175
+\ALC@tlm=\skip66
+\algorithmicindent=\skip67
 ) (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
 (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texl
 ive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks46
-\XKV@tempa@toks=\toks47
+\XKV@toks=\toks50
+\XKV@tempa@toks=\toks51
 )
-\XKV@depth=\count163
+\XKV@depth=\count176
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )) (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
@@ -694,29 +811,29 @@ Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
 (/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
-\collectedbox=\box55
+\collectedbox=\box60
 )
-\tc@llx=\dimen257
-\tc@lly=\dimen258
-\tc@urx=\dimen259
-\tc@ury=\dimen260
+\tc@llx=\dimen270
+\tc@lly=\dimen271
+\tc@urx=\dimen272
+\tc@ury=\dimen273
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen261
-\adjbox@Height=\dimen262
-\adjbox@Depth=\dimen263
-\adjbox@Totalheight=\dimen264
+\adjbox@Width=\dimen274
+\adjbox@Height=\dimen275
+\adjbox@Depth=\dimen276
+\adjbox@Totalheight=\dimen277
 (/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
-\c@checkoddpage=\count164
+\c@checkoddpage=\count177
 ) (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box56
-\sift@deathcycles=\count165
-\@vwid@loff=\dimen265
-\@vwid@roff=\dimen266
+\@vwid@box=\box61
+\sift@deathcycles=\count178
+\@vwid@loff=\dimen278
+\@vwid@roff=\dimen279
 )) (/home/rraju2/Q2Presentation/presentation.aux)
 \openout1 = `presentation.aux'.
 
@@ -770,17 +887,17 @@ LaTeX Font Info:    ... okay on input line 31.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count166
-\scratchdimen=\dimen267
-\scratchbox=\box57
-\nofMPsegments=\count167
-\nofMParguments=\count168
-\everyMPshowfont=\toks48
-\MPscratchCnt=\count169
-\MPscratchDim=\dimen268
-\MPnumerator=\count170
-\makeMPintoPDFobject=\count171
-\everyMPtoPDFconversion=\toks49
+\scratchcounter=\count179
+\scratchdimen=\dimen280
+\scratchbox=\box62
+\nofMPsegments=\count180
+\nofMParguments=\count181
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count182
+\MPscratchDim=\dimen281
+\MPnumerator=\count183
+\makeMPintoPDFobject=\count184
+\everyMPtoPDFconversion=\toks53
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -794,14 +911,14 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box58
+\AtBeginShipoutBox=\box63
 Package hyperref Info: Link coloring ON on input line 31.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count172
+\c@section@level=\count185
 )
 LaTeX Info: Redefining \ref on input line 31.
 LaTeX Info: Redefining \pageref on input line 31.
@@ -890,6 +1007,9 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 LaTeX Info: Redefining \includegraphics on input line 31.
 (/home/rraju2/Q2Presentation/presentation.nav)
+Overfull \vbox (44.55656pt too high) detected at line 35
+ []
+
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 35.
@@ -900,155 +1020,224 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 on/presentation.toc) [2
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 63.
+LaTeX Font Info:    Try loading font information for U+msa on input line 46.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 63.
+LaTeX Font Info:    Try loading font information for U+msb on input line 46.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 63.
+line 46.
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) <ibm_sram_crossbar.jpg, id=98, 216.81pt x 212.9556pt>
+) [3
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 63.
+
+LaTeX Font Info:    No file OMScmss.fd. on input line 63.
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 63.
+
+<ibm_sram_crossbar.jpg, id=68, 216.81pt x 212.9556pt>
 File: ibm_sram_crossbar.jpg Graphic file (type jpg)
 <use ibm_sram_crossbar.jpg>
 Package pdftex.def Info: ibm_sram_crossbar.jpg used on input line 63.
 (pdftex.def)             Requested size: 86.72246pt x 85.18073pt.
-[3
+[4
 
- </home/rraju2/Q2Presentation/ibm_sram_crossbar.jpg>] <hcm.jpg, id=126, 154.176
-pt x 110.814pt>
+ </home/rraju2/Q2Presentation/ibm_sram_crossbar.jpg>] <hcm.jpg, id=75, 154.176p
+t x 110.814pt>
 File: hcm.jpg Graphic file (type jpg)
 <use hcm.jpg>
 Package pdftex.def Info: hcm.jpg used on input line 87.
 (pdftex.def)             Requested size: 77.0878pt x 55.40685pt.
-[4
 
- </home/rraju2/Q2Presentation/hcm.jpg>] <keyIdea.png, id=153, 762.85pt x 430.60
-875pt>
+Overfull \vbox (0.97931pt too high) detected at line 87
+ []
+
+[5
+
+ </home/rraju2/Q2Presentation/hcm.jpg>] <keyIdea.png, id=82, 762.85pt x 430.608
+75pt>
 File: keyIdea.png Graphic file (type png)
 <use keyIdea.png>
 Package pdftex.def Info: keyIdea.png used on input line 91.
 (pdftex.def)             Requested size: 305.1346pt x 172.24043pt.
-[5
+[6
 
- </home/rraju2/Q2Presentation/keyIdea.png>] <reram.png, id=178, 608.2725pt x 26
-2.9825pt>
+ </home/rraju2/Q2Presentation/keyIdea.png>] [7
+
+] <reram.png, id=94, 608.2725pt x 262.9825pt>
 File: reram.png Graphic file (type png)
 <use reram.png>
 Package pdftex.def Info: reram.png used on input line 97.
 (pdftex.def)             Requested size: 304.13551pt x 131.49092pt.
-[6
+[8
 
- </home/rraju2/Q2Presentation/reram.png>] <reram_nn.png, id=204, 575.14874pt x 
+ </home/rraju2/Q2Presentation/reram.png>] <reram_nn.png, id=100, 575.14874pt x 
 182.6825pt>
 File: reram_nn.png Graphic file (type png)
 <use reram_nn.png>
 Package pdftex.def Info: reram_nn.png used on input line 102.
 (pdftex.def)             Requested size: 287.57367pt x 91.34102pt.
-[7
+[9
 
- </home/rraju2/Q2Presentation/reram_nn.png>] <prime_arch.png, id=230, 575.14874
-pt x 509.905pt>
+ </home/rraju2/Q2Presentation/reram_nn.png>] [10
+
+] <prime_arch.png, id=111, 575.14874pt x 509.905pt>
 File: prime_arch.png Graphic file (type png)
 <use prime_arch.png>
 Package pdftex.def Info: prime_arch.png used on input line 108.
 (pdftex.def)             Requested size: 230.05542pt x 203.95837pt.
-[8
+[11
 
- </home/rraju2/Q2Presentation/prime_arch.png>] <NNvsMem.png, id=258, 513.92pt x
+ </home/rraju2/Q2Presentation/prime_arch.png>] <NNvsMem.png, id=117, 513.92pt x
  290.08376pt>
 File: NNvsMem.png Graphic file (type png)
 <use NNvsMem.png>
 Package pdftex.def Info: NNvsMem.png used on input line 113.
 (pdftex.def)             Requested size: 205.56435pt x 116.03143pt.
-[9
+[12
 
- </home/rraju2/Q2Presentation/NNvsMem.png>] <decoder1.png, id=284, 547.04375pt 
+ </home/rraju2/Q2Presentation/NNvsMem.png>] <decoder1.png, id=123, 547.04375pt 
 x 295.1025pt>
 File: decoder1.png Graphic file (type png)
 <use decoder1.png>
 Package pdftex.def Info: decoder1.png used on input line 118.
 (pdftex.def)             Requested size: 218.81361pt x 118.0389pt.
-[10
+[13
 
- </home/rraju2/Q2Presentation/decoder1.png>] <col.png, id=312, 547.04375pt x 29
+ </home/rraju2/Q2Presentation/decoder1.png>] <col.png, id=132, 547.04375pt x 29
 5.1025pt>
 File: col.png Graphic file (type png)
 <use col.png>
 Package pdftex.def Info: col.png used on input line 123.
 (pdftex.def)             Requested size: 218.81361pt x 118.0389pt.
-[11
+[14
 
- </home/rraju2/Q2Presentation/col.png>] <SA.png, id=339, 543.02875pt x 290.0837
+ </home/rraju2/Q2Presentation/col.png>] <SA.png, id=139, 543.02875pt x 290.0837
 6pt>
 File: SA.png Graphic file (type png)
 <use SA.png>
 Package pdftex.def Info: SA.png used on input line 128.
 (pdftex.def)             Requested size: 217.20764pt x 116.03143pt.
-[12
+[15
 
- </home/rraju2/Q2Presentation/SA.png>] <system_level.png, id=366, 1222.5675pt x
+ </home/rraju2/Q2Presentation/SA.png>] <system_level.png, id=146, 1222.5675pt x
  242.9075pt>
 File: system_level.png Graphic file (type png)
 <use system_level.png>
 Package pdftex.def Info: system_level.png used on input line 138.
 (pdftex.def)             Requested size: 305.64113pt x 60.72672pt.
-[13
+[16
 
- </home/rraju2/Q2Presentation/system_level.png>] <ex_setup.png, id=393, 596.227
-5pt x 693.59125pt>
+ </home/rraju2/Q2Presentation/system_level.png>] [17
+
+] <ex_setup.png, id=157, 596.2275pt x 693.59125pt>
 File: ex_setup.png Graphic file (type png)
 <use ex_setup.png>
 Package pdftex.def Info: ex_setup.png used on input line 144.
 (pdftex.def)             Requested size: 178.86963pt x 208.07898pt.
-[14
+[18
 
- </home/rraju2/Q2Presentation/ex_setup.png>] <performance.png, id=420, 584.1825
+ </home/rraju2/Q2Presentation/ex_setup.png>] <performance.png, id=164, 584.1825
 pt x 579.16376pt>
 File: performance.png Graphic file (type png)
 <use performance.png>
 Package pdftex.def Info: performance.png used on input line 149.
 (pdftex.def)             Requested size: 233.66885pt x 231.66139pt.
-[15
 
- </home/rraju2/Q2Presentation/performance.png>] <energy.png, id=446, 579.16376p
+Overfull \vbox (19.91548pt too high) detected at line 149
+ []
+
+[19
+
+ </home/rraju2/Q2Presentation/performance.png>] <energy.png, id=171, 579.16376p
 t x 582.175pt>
 File: energy.png Graphic file (type png)
 <use energy.png>
 Package pdftex.def Info: energy.png used on input line 154.
 (pdftex.def)             Requested size: 231.66139pt x 232.86588pt.
-[16
 
- </home/rraju2/Q2Presentation/energy.png>] <area.png, id=472, 554.07pt x 235.88
+Overfull \vbox (21.11996pt too high) detected at line 154
+ []
+
+[20
+
+ </home/rraju2/Q2Presentation/energy.png>] <area.png, id=177, 554.07pt x 235.88
 126pt>
 File: area.png Graphic file (type png)
 <use area.png>
 Package pdftex.def Info: area.png used on input line 159.
 (pdftex.def)             Requested size: 277.03432pt x 117.94034pt.
-[17
+[21
 
- </home/rraju2/Q2Presentation/area.png>] [18
+ </home/rraju2/Q2Presentation/area.png>] [22
 
-] [19
+] [23
 
-] [20
+] [24
+
+] [25
 
  </usr/share/texlive/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf>] [2
-1
+6
 
-] <precision_graph.png, id=614, 642.4pt x 330.23375pt>
+] [27
+
+] [28
+
+] <precision_graph.png, id=234, 642.4pt x 330.23375pt>
 File: precision_graph.png Graphic file (type png)
 <use precision_graph.png>
-Package pdftex.def Info: precision_graph.png used on input line 211.
+Package pdftex.def Info: precision_graph.png used on input line 223.
 (pdftex.def)             Requested size: 256.95544pt x 132.09114pt.
-[22
+[29
 
- </home/rraju2/Q2Presentation/precision_graph.png>] [23
+ </home/rraju2/Q2Presentation/precision_graph.png>] <math0.png, id=240, 388.451
+25pt x 98.3675pt>
+File: math0.png Graphic file (type png)
+<use math0.png>
+Package pdftex.def Info: math0.png used on input line 233.
+(pdftex.def)             Requested size: 155.37773pt x 39.34628pt.
+<target.png, id=241, 383.4325pt x 56.21pt>
+File: target.png Graphic file (type png)
+<use target.png>
+Package pdftex.def Info: target.png used on input line 233.
+(pdftex.def)             Requested size: 153.37029pt x 22.4836pt.
+<split_in_weights.png, id=242, 645.41125pt x 168.63pt>
+File: split_in_weights.png Graphic file (type png)
+<use split_in_weights.png>
+Package pdftex.def Info: split_in_weights.png used on input line 233.
+(pdftex.def)             Requested size: 258.15993pt x 67.45079pt.
+[30
+
+ </home/rraju2/Q2Presentation/math0.png> </home/rraju2/Q2Presentation/target.pn
+g> </home/rraju2/Q2Presentation/split_in_weights.png>] <expandRfull.png, id=248
+, 688.5725pt x 305.14pt>
+File: expandRfull.png Graphic file (type png)
+<use expandRfull.png>
+Package pdftex.def Info: expandRfull.png used on input line 241.
+(pdftex.def)             Requested size: 275.4241pt x 122.05382pt.
+<Rfull_again.png, id=249, 540.0175pt x 57.21375pt>
+File: Rfull_again.png Graphic file (type png)
+<use Rfull_again.png>
+Package pdftex.def Info: Rfull_again.png used on input line 241.
+(pdftex.def)             Requested size: 216.00316pt x 22.88509pt.
+[31
+
+ </home/rraju2/Q2Presentation/expandRfull.png> </home/rraju2/Q2Presentation/Rfu
+ll_again.png>]
+Overfull \vbox (3.36034pt too high) detected at line 251
+ []
+
+[32
 
 ]
 \tf@nav=\write6
@@ -1060,41 +1249,45 @@ Package pdftex.def Info: precision_graph.png used on input line 211.
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
 (/home/rraju2/Q2Presentation/presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 228.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 254.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: C96EAA64991365865461D3D83F218885;278.
+(rerunfilecheck)             Checksum: E525D1A9CF125937A177EA335A5C2690;321.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 228.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 254.
  ) 
 Here is how much of TeX's memory you used:
- 17869 strings out of 493029
- 337892 string characters out of 6136234
- 407747 words of memory out of 5000000
- 20887 multiletter control sequences out of 15000+600000
- 12870 words of font info for 47 fonts, out of 8000000 for 9000
+ 21572 strings out of 493029
+ 425910 string characters out of 6136234
+ 490376 words of memory out of 5000000
+ 24488 multiletter control sequences out of 15000+600000
+ 12726 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,14n,55p,420b,549s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
+ 72i,13n,97p,1784b,712s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmtt9.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/symbols/msam7.pfb>
-Output written on /home/rraju2/Q2Presentation/presentation.pdf (23 pages, 12549
-32 bytes).
+/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmtt10.pfb>
+Output written on /home/rraju2/Q2Presentation/presentation.pdf (32 pages, 13158
+52 bytes).
 PDF statistics:
- 708 PDF objects out of 1000 (max. 8388607)
- 639 compressed objects within 7 object streams
- 54 named destinations out of 1000 (max. 500000)
- 163 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 318 PDF objects out of 1000 (max. 8388607)
+ 238 compressed objects within 3 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
